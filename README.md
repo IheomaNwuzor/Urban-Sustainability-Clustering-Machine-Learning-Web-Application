@@ -1,5 +1,6 @@
 # Urban-Sustainability-Clustering-Machine-Learning-Web-Application
-"C:\Users\iheom\Documents\10Alytics documents\Supervised Machine Learning\Website for model deployment.mp4"
+![Image 7](https://github.com/user-attachments/assets/72002e3a-04d2-41da-8600-3463775fd64c)
+
 ### An interactive Streamlit app for clustering countries based on sustainability indicators using machine learning and visualizing results on a global map.
 
 # 🔍 Overview
